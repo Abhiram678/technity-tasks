@@ -1,0 +1,55 @@
+Lab 1 (Basics, Cropping, Flipping) & Lab 2 (Rotation, Scaling, Translation)
+
+General image dataset: Any standard test images like Lena, cameraman, or sample images from datasets like:
+
+USC-SIPI Image Database: Contains standard test images
+Your own photographs or sample images
+
+
+
+Lab 3 (Face & Object Detection)
+
+Face and Eye Detection:
+
+Yale Face Database or CMU Frontal Faces: For testing on static images
+LFW (Labeled Faces in the Wild): For more varied face detection tests
+You'll also need the Haar cascade XML files from OpenCV (pre-trained models)
+
+
+Car and Pedestrian Detection:
+
+UIUC Image DB: For car detection
+Caltech Pedestrian Dataset: For pedestrian detection
+COCO: Contains both cars and pedestrians for combined testing
+
+
+
+Lab 4 (Face and Eye Alignment)
+
+CMU Multi-PIE Database or CelebA: For faces with varied poses
+HELEN Dataset: Has detailed facial landmark annotations
+You can also use the 300-W dataset which is specifically designed for facial landmark detection tasks
+
+Lab 5 (Edge Detection using CNN)
+
+BSDS500 (Berkeley Segmentation Dataset): The standard dataset for edge detection evaluation
+NYU Depth Dataset: If you want to experiment with RGB-D edge detection
+
+Lab 6 (Feature Detection and Mapping)
+
+Oxford Buildings Dataset: Good for feature matching across viewpoints
+DTU Robot Image Dataset: Contains multiple viewpoints of objects
+KITTI Dataset: For feature detection and matching in real-world scenes
+
+Lab 7 (Object Counter)
+
+PETS Dataset: For counting people in surveillance settings
+CARPK Dataset: Specifically designed for counting cars in parking lots
+Mall Dataset: For crowd counting
+TRANCOS Dataset: For vehicle counting
+
+Lab 8 (Bag of Words)
+
+Caltech-101 or Caltech-256: Standard datasets for object recognition using BoW
+15 Scenes Dataset: For scene classification
+PASCAL VOC: More challenging multi-object dataset
